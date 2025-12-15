@@ -8,13 +8,6 @@ Atualmente, resido em **Maceió, AL** ☀️.
 
 ---
 
-### 🚀 Sobre mim (About Me)
-
-- 💼 Trabalho profissionalmente com desenvolvimento web (Front & Back) há mais de 1 ano.
-- 🎨 Tenho forte interesse em **UI/UX**, **Design System** e **Acessibilidade**.
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 ### Linguagens
@@ -37,7 +30,7 @@ Atualmente, resido em **Maceió, AL** ☀️.
 
 ### Práticas & Conceitos
 - APIs REST
-- Arquitetura MVC
+- Arquitetura MVC, DDD e Clean Architecture
 - Integração Front-end & Back-end
 - Boas práticas de código
 - Documentação técnica
