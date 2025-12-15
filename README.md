@@ -1,7 +1,8 @@
 ### Olá! Eu sou um Desenvolvedor de Software 👋
 *(Hi there! I'm a Software Developer)*
 
-Sou um desenvolvedor **fullstack**. Com mais de 1 ano de experiência profissional, atuo no desenvolvimento Fullstack, sempre buscando fidelidade visual e performance.
+Sou um desenvolvedor **fullstack**. Com mais de 1 ano de experiência profissional, atuo no desenvolvimento Fullstack, com experiência no desenvolvimento de **interfaces web**, **APIs REST**, integração **Front-end ↔ Back-end** e manutenção de sistemas seguindo boas práticas de código.
+
 
 Atualmente, resido em **Maceió, AL** ☀️.
 
@@ -14,13 +15,48 @@ Atualmente, resido em **Maceió, AL** ☀️.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 Tecnologias & Ferramentas
 
-**Minhas especialidades:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+### Linguagens
+- JavaScript
+- TypeScript
+- Ruby
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Tecnologias
+- Ruby on Rails
+- Node.js
+- React
+- Next.js
+- MySQL
+- Git
+
+---
+
+### Práticas & Conceitos
+- APIs REST
+- Arquitetura MVC
+- Integração Front-end & Back-end
+- Boas práticas de código
+- Documentação técnica
+- Design System
+- Responsividade e UX
+---
+
+🔗 **Repositórios:**
+- Front-end:  
+  👉 https://github.com/JhonDenisson/equilibragem_fe
+- Back-end:  
+  👉 https://github.com/JhonDenisson/equilibragem_be
+
+---
+
+## 🌐 Onde me encontrar
+
+- 💼 LinkedIn: https://linkedin.com/in/jhonata-denisson-561964373  
+- 🐙 GitHub: https://github.com/JhonDenisson  
+- ✉️ Email: jhonatadenisson12@hotmail.com  
+
+---
