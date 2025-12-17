@@ -12,7 +12,6 @@ Atualmente, resido em **Maceió, AL** ☀️.
 
 ### Linguagens
 - JavaScript
-- TypeScript
 - Ruby
 - SQL
 - HTML
