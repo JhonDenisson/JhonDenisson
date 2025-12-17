@@ -36,20 +36,12 @@ Atualmente, resido em **Maceió, AL** ☀️.
 - Documentação técnica
 - Design System
 - Responsividade e UX
----
-
-🔗 **Repositórios:**
-- Front-end:  
-  👉 https://github.com/JhonDenisson/equilibragem_fe
-- Back-end:  
-  👉 https://github.com/JhonDenisson/equilibragem_be
-
+  
 ---
 
 ## 🌐 Onde me encontrar
 
 - 💼 LinkedIn: https://linkedin.com/in/jhonata-denisson-561964373  
 - 🐙 GitHub: https://github.com/JhonDenisson  
-- ✉️ Email: jhonatadenisson12@hotmail.com  
 
 ---
