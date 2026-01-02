@@ -41,6 +41,5 @@ Atualmente, resido em **Maceió, AL** ☀️.
 ## 🌐 Onde me encontrar
 
 - 💼 LinkedIn: https://linkedin.com/in/jhonata-denisson-561964373  
-- 🐙 GitHub: https://github.com/JhonDenisson  
 
 ---
